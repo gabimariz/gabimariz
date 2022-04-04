@@ -7,6 +7,7 @@ Hi, my name is Gabriel, I'm a back end developer, my favorite sports are cycling
 
 ## How I work
 I like to keep things organized, keep the focus on the project I'm working on and always try to develop with good practices.
+I am a computer technician for the internet
 
 ## Get in touch
 - [LinkedIn](https://linkedin.com/in/mariz5g)
