@@ -14,4 +14,4 @@ I am a computer technician for the internet
 - [Personal Instagram](https://instagram.com/gabol.sk8?utm_medium=copy_link)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabimariz&show_icons=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimariz&layout=compact&langs_count=7&theme=material-palenight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimariz&layout=compact&langs_count=7">
