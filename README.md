@@ -13,5 +13,9 @@ I am a computer technician for the internet
 - [LinkedIn](https://linkedin.com/in/mariz5g)
 - [Personal Instagram](https://instagram.com/gabol.sk8?utm_medium=copy_link)
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabimariz&show_icons=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimariz&layout=compact&langs_count=7">
+<table>
+    <tr>
+        <td><img width="360px" src="https://github-readme-stats.vercel.app/api?username=gabimariz&show_icons=true&include_all_commits=true"></td>
+        <td><img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimariz&layout=compact&langs_count=7"></td>
+    </tr>    
+</table>
